@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // Общие сведения об этой сборке предоставляются следующим набором
 // набора атрибутов. Измените значения этих атрибутов, чтобы изменить сведения,
 // связанные со сборкой.
-[assembly: AssemblyTitle("HomeworkEvgeniyZubtsovlesson3.2")]
+[assembly: AssemblyTitle("HomeworkEvgeniyZubtsovlesson3.1")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("HomeworkEvgeniyZubtsovlesson3.2")]
+[assembly: AssemblyProduct("HomeworkEvgeniyZubtsovlesson3.1")]
 [assembly: AssemblyCopyright("Copyright ©  2020")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // Следующий GUID служит для идентификации библиотеки типов, если этот проект будет видимым для COM
-[assembly: Guid("0d3973ae-c9cf-4cab-9f50-7faffc22b5f5")]
+[assembly: Guid("aab571e2-02dd-4389-a8d2-dd6a63e45b3d")]
 
 // Сведения о версии сборки состоят из следующих четырех значений:
 //
