@@ -1,0 +1,7 @@
+C:\Users\ezubtsov\source\repos\kursic\HomeworkEvgeniyZubtsovlesson6.1\bin\Debug\HomeworkEvgeniyZubtsovlesson6.1.exe.config
+C:\Users\ezubtsov\source\repos\kursic\HomeworkEvgeniyZubtsovlesson6.1\bin\Debug\HomeworkEvgeniyZubtsovlesson6.1.exe
+C:\Users\ezubtsov\source\repos\kursic\HomeworkEvgeniyZubtsovlesson6.1\bin\Debug\HomeworkEvgeniyZubtsovlesson6.1.pdb
+C:\Users\ezubtsov\source\repos\kursic\HomeworkEvgeniyZubtsovlesson6.1\obj\Debug\HomeworkEvgeniyZubtsovlesson6.1.csprojAssemblyReference.cache
+C:\Users\ezubtsov\source\repos\kursic\HomeworkEvgeniyZubtsovlesson6.1\obj\Debug\HomeworkEvgeniyZubtsovlesson6.1.csproj.CoreCompileInputs.cache
+C:\Users\ezubtsov\source\repos\kursic\HomeworkEvgeniyZubtsovlesson6.1\obj\Debug\HomeworkEvgeniyZubtsovlesson6.1.exe
+C:\Users\ezubtsov\source\repos\kursic\HomeworkEvgeniyZubtsovlesson6.1\obj\Debug\HomeworkEvgeniyZubtsovlesson6.1.pdb
