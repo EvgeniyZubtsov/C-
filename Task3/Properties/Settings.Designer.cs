@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace WindowsFormsApp4.Properties
+namespace HomeworkEvgeniyZubtsovlesson8._1.Properties
 {
 
 

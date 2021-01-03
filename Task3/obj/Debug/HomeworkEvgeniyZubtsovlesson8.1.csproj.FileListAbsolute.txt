@@ -1,0 +1,9 @@
+C:\Users\ezubtsov\source\repos\kursic\HomeworkEvgeniyZubtsovlesson8.1\bin\Debug\HomeworkEvgeniyZubtsovlesson8.1.exe.config
+C:\Users\ezubtsov\source\repos\kursic\HomeworkEvgeniyZubtsovlesson8.1\bin\Debug\HomeworkEvgeniyZubtsovlesson8.1.exe
+C:\Users\ezubtsov\source\repos\kursic\HomeworkEvgeniyZubtsovlesson8.1\bin\Debug\HomeworkEvgeniyZubtsovlesson8.1.pdb
+C:\Users\ezubtsov\source\repos\kursic\HomeworkEvgeniyZubtsovlesson8.1\obj\Debug\HomeworkEvgeniyZubtsovlesson8.1.csprojAssemblyReference.cache
+C:\Users\ezubtsov\source\repos\kursic\HomeworkEvgeniyZubtsovlesson8.1\obj\Debug\HomeworkEvgeniyZubtsovlesson8._1.Properties.Resources.resources
+C:\Users\ezubtsov\source\repos\kursic\HomeworkEvgeniyZubtsovlesson8.1\obj\Debug\HomeworkEvgeniyZubtsovlesson8.1.csproj.GenerateResource.cache
+C:\Users\ezubtsov\source\repos\kursic\HomeworkEvgeniyZubtsovlesson8.1\obj\Debug\HomeworkEvgeniyZubtsovlesson8.1.csproj.CoreCompileInputs.cache
+C:\Users\ezubtsov\source\repos\kursic\HomeworkEvgeniyZubtsovlesson8.1\obj\Debug\HomeworkEvgeniyZubtsovlesson8.1.exe
+C:\Users\ezubtsov\source\repos\kursic\HomeworkEvgeniyZubtsovlesson8.1\obj\Debug\HomeworkEvgeniyZubtsovlesson8.1.pdb
