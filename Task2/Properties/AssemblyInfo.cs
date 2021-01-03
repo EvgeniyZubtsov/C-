@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // Общие сведения об этой сборке предоставляются следующим набором
 // набора атрибутов. Измените значения этих атрибутов, чтобы изменить сведения,
 // связанные со сборкой.
-[assembly: AssemblyTitle("HomeworkEvgeniyZubtsovlesson8.2")]
+[assembly: AssemblyTitle("WindowsFormsApp4")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("HomeworkEvgeniyZubtsovlesson8.2")]
+[assembly: AssemblyProduct("WindowsFormsApp4")]
 [assembly: AssemblyCopyright("Copyright ©  2021")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // Следующий GUID служит для идентификации библиотеки типов, если этот проект будет видимым для COM
-[assembly: Guid("0b8ab918-3f60-4cd2-b808-485a65e0a595")]
+[assembly: Guid("3e45603b-be1a-4f5a-9db9-3fd6ee16f99e")]
 
 // Сведения о версии сборки состоят из следующих четырех значений:
 //
